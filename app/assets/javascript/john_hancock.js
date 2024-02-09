@@ -1,4 +1,4 @@
-//= require signature_pad
+<script src="https://cdnjs.cloudflare.com/ajax/libs/signature_pad/4.1.7/signature_pad.umd.min.js" integrity="sha512-5KVKd2m3yToOC3/2aqO7vbLn5qWWsrZrJFhpqPBdngWgSKf7CIgo9OURGlcooN9LaG0kYRb5gUAMYtPFyftMcQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 document.addEventListener('DOMContentLoaded', function(){
   const canvas = document.getElementById("JohnHancock-canvas");
